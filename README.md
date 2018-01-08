@@ -7,9 +7,9 @@ I built this as a part of "Udacity Android Basics: User Input".
 ScreenShots
 --------------
 
-![alt text](file:///home/sharma/Desktop/ss_1.jpeg)
-![alt text](file:///home/sharma/Desktop/ss_2.jpeg)
-![alt text](file:///home/sharma/Desktop/ss_3.jpeg)
+![ss_1](https://user-images.githubusercontent.com/28810075/34658007-68a71f4c-f451-11e7-9009-d69fce4a7543.jpeg)
+![ss_2](https://user-images.githubusercontent.com/28810075/34658025-81df600a-f451-11e7-9c0a-0bb595689773.jpeg)
+![ss_3](https://user-images.githubusercontent.com/28810075/34658031-8d8d680c-f451-11e7-8749-8df9b34a2d08.jpeg)
 
 Pre-requisites
 --------------
